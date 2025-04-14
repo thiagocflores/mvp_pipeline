@@ -1,6 +1,3 @@
-# mvp_pipeline
-Pipeline de dados feito no Big Query utilizando tecnologia de nuvem da Google Cloud
-
 # MVP – Análise de Interesse em Filmes Populares (2004–2024) com IMDb + Google Trends
 
 ## Objetivo
