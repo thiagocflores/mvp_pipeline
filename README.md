@@ -98,9 +98,9 @@ O modelo de dados foi estruturado de forma **flat**:
 
 ## Autoavaliação
 
-Apesar de ter enfrentado muitas dificuldades no processo, especialmente por ser um analista de dados com formação em jornalismoo tendo o primeiro contato com a Engenharia de Dados, acredito que o resultado final foi bastante satisfatório.
+Apesar de ter enfrentado muitas dificuldades no processo, especialmente por ser um analista de dados com formação em jornalismo tendo o primeiro contato com a Engenharia de Dados, acredito que o resultado final foi bastante satisfatório.
 
-Hoje já tenho um domínio bem maior de **Python**, **SQL** e da **BigQuery**. Reconheço que ainda sofro bastante tive alguns empecilhos para fazer os códigos rodarem, mas consegui resolver ou adaptar todos os problemas que tive ao longo do processo.
+Hoje já tenho um domínio bem maior de **Python**, **SQL** e da **BigQuery**. Reconheço que tive alguns empecilhos para fazer os códigos rodarem, mas consegui resolver ou adaptar todos os problemas que tive ao longo do processo.
 
 Em relação à resposta das perguntas iniciais, acredito que o trabalho teria uma precisão maior caso eu tivesse conseguido utilizar a API do Google Trends, o que não foi possível. De qualquer forma, consegui tirar ótimas conclusões através da análise dos dados disponíveis.
 
